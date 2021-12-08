@@ -28,4 +28,4 @@ This repository contains all my data analysis useful skills.
 10. **Module 10: Text Analysis**
     - [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1LpG7_gaPiRptQ8C8K-S8oCQfaVCjPgq4?usp=sharing)
 11. **Module 11: Use GitHub to Create Your Assignment Portfolio**
-    - [A11 Market Your Customerr Data Analytics Skills]
+    - [A11 Market Your Customer Data Analytics Skills]
